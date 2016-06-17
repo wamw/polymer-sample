@@ -1,0 +1,20 @@
+{
+  "name": "polymer",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Takehiro Ohtani <ohtani@impv.co.jp>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "core-image": "Polymer/core-image#^0.5.6"
+  }
+}
